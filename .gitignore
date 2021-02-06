@@ -1,1 +1,4 @@
 .idea/*
+.eslintcache
+node_modules/.cache
+src/react-app-env.d.ts
